@@ -30,17 +30,9 @@ A fun website all about Chance, the cutest squirrel, with photos, facts, and adv
         <li style="margin-bottom: 10px;">🎯 <strong>Smart Forager:</strong> Remembers hiding spots and is very clever!</li>
     </ul>
 </div>
-<div style="border: 8px double #FF5733; 
-            background: linear-gradient(135deg, #FFD700, #FF6F91, #6A4C93, #33FFF0); 
-            padding: 40px; 
-            border-radius: 25px; 
-            text-align: center; 
-            margin: 30px auto; 
-            box-shadow: 5px 5px 15px rgba(0,0,0,0.3);">
-    <h1 style="font-size: 60px; color: #FFFFFF; text-shadow: 3px 3px #333333;">
         Welcome to Chance's World! 🐿️
     </h1>
-    <p style="font-size: 26px; color: #FFFF66; font-weight: bold; margin: 20px 0;">
+    <p style="font-size: 26px; color:  font-weight: bold; margin: 20px 0;">
         Explore fun facts, adorable photos, and the amazing adventures of Chance the squirrel! 🌰🌳🎉
     </p>
     <p style="fo
