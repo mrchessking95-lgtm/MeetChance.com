@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<link rel="icon" type="image/png" href="squiny-baa.png">
+
 
 
 <html lang="en">
-<head>
+<head><link rel="icon" type="image/png" href="squiny-baa.png">
 <meta charset="UTF-8">
 <title>Chance the Squirrel 🐿️</title>
 <style>
