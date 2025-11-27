@@ -1,5 +1,9 @@
-# MeetChance
-A fun website all about Chance, the cutest squirrel, with photos, facts, and adventures!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Chance the Squirrel 🐿️</title>
+<style>
 body {
     font-family: 'Comic Sans MS', sans-serif;
     margin: 0;
@@ -75,12 +79,8 @@ footer {
     color: #FFFFFF;
     font-weight: bold;
     border-top: 5px solid #FFFF66;
-}<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Chance the Squirrel 🐿️</title>
-    <link rel="stylesheet" href="style.css">
+}
+</style>
 </head>
 <body>
 
@@ -100,7 +100,7 @@ footer {
     <h2>Welcome to Chance's World!</h2>
     <p>Meet Chance, the cutest and most playful Indian Palm Squirrel! 🐿️ Follow him on his adventures, discover his favorite snacks, and enjoy his adorable antics. 🌰🌳</p>
     <p>Chance is curious, clever, and always ready to explore. From climbing trees to hiding acorns, his life is full of fun and excitement! 🎉</p>
-    <img src="images/chance1.jpg" alt="Chance the Squirrel">
+    <img src="https://placekitten.com/600/400" alt="Chance the Squirrel">
 </div>
 
 <!-- About Section -->
@@ -109,7 +109,7 @@ footer {
     <p>Chance is an Indian Palm Squirrel, known for his three white stripes on the back. He is always active during the day and loves exploring gardens and trees. 🌳</p>
     <p>He loves acorns, fruits, and seeds. He stores food in his cheeks for later and never misses a chance to climb a new branch. ⚡</p>
     <p>Chance is friendly with other squirrels and enjoys being around family and friends. 💛</p>
-    <img src="images/chance2.jpg" alt="Chance climbing a tree">
+    <img src="https://placekitten.com/601/400" alt="Chance climbing a tree">
 </div>
 
 <!-- Fun Facts Section -->
@@ -122,16 +122,16 @@ footer {
     <p>☀️ Daytime Active: Always curious and playful in the daylight.</p>
     <p>💛 Social: Seen often with other squirrels or family.</p>
     <p>🎯 Smart: Remembers hiding spots and clever foraging tricks.</p>
-    <img src="images/chance3.jpg" alt="Chance playing">
+    <img src="https://placekitten.com/602/400" alt="Chance playing">
 </div>
 
 <!-- Gallery Section -->
 <div class="section" id="gallery" style="background: linear-gradient(135deg, #FFB347, #FFE066); border: 5px groove #FF6F91;">
     <h2>Gallery 🐿️</h2>
     <p>Here are some fun snapshots of Chance exploring, playing, and being super cute! 📸</p>
-    <img src="images/chance1.jpg" alt="Chance photo 1">
-    <img src="images/chance2.jpg" alt="Chance photo 2">
-    <img src="images/chance3.jpg" alt="Chance photo 3">
+    <img src="https://placekitten.com/600/400" alt="Chance photo 1">
+    <img src="https://placekitten.com/601/400" alt="Chance photo 2">
+    <img src="https://placekitten.com/602/400" alt="Chance photo 3">
 </div>
 
 <footer>
@@ -140,7 +140,3 @@ footer {
 
 </body>
 </html>
-
-
- 
-     
