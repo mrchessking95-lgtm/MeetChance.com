@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -12,7 +12,77 @@ body {
     color: #333;
 }
 
+header {
+    background-color: #FF5733;
+    padding: 30px;
+    text-align: center;
+    border-bottom: 5px solid #FFFF66;
+}
 
+header h1 {
+    font-size: 60px;
+    color: #FFFFFF;
+    text-shadow: 3px 3px #333333;
+}
+
+nav {
+    background-color: #FFB347;
+    padding: 15px 0;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #FF6F91;
+}
+
+.section {
+    padding: 40px;
+    margin: 30px auto;
+    max-width: 1000px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+.section h2 {
+    font-size: 45px;
+    color: #FFFFFF;
+    text-shadow: 2px 2px #333333;
+}
+
+.section p {
+    font-size: 22px;
+    color: #FFFF66;
+    line-height: 1.6;
+    margin: 20px 0;
+}
+
+.section img {
+    max-width: 80%;
+    border-radius: 20px;
+    margin: 20px 0;
+    border: 5px solid #FF5733;
+}
+
+footer {
+    background-color: #FF5733;
+    text-align: center;
+    padding: 20px;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-top: 5px solid #FFFF66;
+}
+</style>
+</head>
+<body>
 
 <header>
     <h1>Chance the Squirrel 🐿️</h1>
