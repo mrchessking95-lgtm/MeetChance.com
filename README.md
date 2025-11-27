@@ -136,7 +136,7 @@ footer {
     <img src="https://placekitten.com/601/400" alt="Chance photo 2">
     <img src="https://placekitten.com/602/400" alt="Chance photo 3">
 </div>
-index.html
+
 
 
 
