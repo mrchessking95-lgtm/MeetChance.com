@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<link rel="icon" type="image/png" href="squiny-baa.png">
 
 
 <html lang="en">
