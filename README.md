@@ -1,3 +1,4 @@
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -52,7 +53,9 @@ body {
     <p>💛 Social: Seen often with other squirrels or family.</p>
     <p>🎯 Smart: Remembers hiding spots and clever foraging tricks.</p>
     <img src="https://placekitten.com/602/400" alt="Chance playing">
-</div><!-- Gallery Section -->
+</div>
+
+<!-- Gallery Section -->
 <div class="section" id="gallery" style="background: linear-gradient(135deg, #FFB347, #FFE066); border: 5px groove #FF6F91;">
     <h2>Gallery 🐿️</h2>
     <p>Here are some fun snapshots of Chance exploring, playing, and being super cute! 📸</p>
