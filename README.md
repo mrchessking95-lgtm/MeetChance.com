@@ -10,19 +10,16 @@ A fun website all about Chance, the cutest squirrel, with photos, facts, and adv
             padding: 30px; 
             text-align: center; 
             border-radius: 20px;
-            margin: 20px 0;">
-    
+            margin: 20px 0;"
     <div style="border: 5px dashed #FF6F91; 
             background: linear-gradient(120deg, #FFF3B0, #FFB347, #FF6F91); 
             padding: 30px; 
             border-radius: 20px; 
             text-align: center; 
             margin: 20px 0;">
-
     <h1 style="font-size: 45px; color: #FFFFFF; text-shadow: 2px 2px #333333;">
         🐿️ Fun Facts About Chance!
     </h1>
-
     <ul style="list-style: none; font-size: 22px; color: #FFFFFF; text-align: left; margin: 20px auto; max-width: 700px;">
         <li style="margin-bottom: 10px;">🌰 <strong>Acorn Lovers:</strong> Chance loves eating nuts, fruits, and seeds!</li>
         <li style="margin-bottom: 10px;">🌳 <strong>Tree Climber:</strong> He’s an excellent climber and loves exploring branches.</li>
